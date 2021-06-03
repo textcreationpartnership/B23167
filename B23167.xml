@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the high and lofty ones</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23167</idno><idno type="EEBO-CITATION">99827071</idno>
+  <idno type="VID">207493</idno>
+  <idno type="EEBO-PROQUEST">2240856416</idno>
+  
+            <idno type="STC">Wing F1956A</idno>
+            <idno type="PROQUEST">99827071</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827071e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23167)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207493)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1885:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the high and lofty ones</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: G.F., i.e. George Fox.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207493:1"/>
+            <head>TO THE HIGH, AND Lofty Ones.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Ear the Lord God, &amp; take heed of pride, woe unto you that are given to vanity, you grieve the Spirit of the Lord God in you, you loose seriousnesse, you loose moderation in your Apparrell, in your diet, you loose temperance, you are not temperate in your ap<g ref="char:EOLhyphen"/>parrell, nor in your diet, bow to the Lord, you evil doers, what a bowing and bending make you one to another? bow to the Lord, give him the glory, give him the honour, ye who are of<g ref="char:EOLhyphen"/>fended, that you have not the earthly honour, earthly man, earth<g ref="char:EOLhyphen"/>ly <hi>Adam,</hi> not the spirituall man, the <hi>Lord from heaven heavenly,</hi> not the spirituall man, the second <hi>Adam.</hi> O how do you go in your Apparrel, that you cannot scarce tell how to passe the streets! O the glory of the world hath swallowed you up many of you! O! you have entered into the great temptation. What would the Devil have given Christ to have bowed down to him? Have you not the lust of the eyes? Have you not the lust of the flesh? Have you not the pride of life? and yet professeth Scriptures as he doth, and bow down to him who is out of the truth, Have you not your hearts desire in those things? Are you not dressed.
+<pb n="2" facs="tcp:207493:2"/> so in your apparrell, that you cannot scarce tell how to walk the streets, gold, silver, jewels, old men have you lost gravity? Young men have you forgotten sincerity? and young women forsaken modesty, following vanity? O what a painting of your selves you make young and old people? O the Spirit is vexed where vani<g ref="char:EOLhyphen"/>ty is. God will not alwayes strive with man. O how have you forgotten the Lord, and given your selves up to your hearts lusts? consider all people the dayes you spend, and have spent in vanity, in wantonnesse, in fooleries and toyes, in superfluitie in naugh<g ref="char:EOLhyphen"/>tinesse, in sports, in pleasures and games. Doth not something in you all prick you and check you of your unconverted estate, of your conversation in the earth, and so delighting in all things in the earth, setting your hearts in vanity? O old men, how can you but see and consider, is the fear of God quite gone out of your hearts? O who can but speak, and not hold his tongu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? O how is the spirit grieved and vexed with your vanity and abomi<g ref="char:EOLhyphen"/>nations? O how is the Just trodden under feet? O how is truth fallen in your streets? O how is every one carried away with va<g ref="char:EOLhyphen"/>nity and vexation of spirit, and covered with it? how doth men <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eel in their folly &amp; madness, that they cannot tell how to go, nor what to wear, nor what to eat, nor what to drink, nor what to put or? <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not this the fashion of the Heathen, and not like Christians? Unset<g ref="char:EOLhyphen"/>tled minds, that run into every fashion, that invents strange and new fashions? repent, repent, lest Gods judgments come upon you, and sweep you away at unawares. O how doth your inordinate affections appear? You are excessive in apparrell, you are exces<g ref="char:EOLhyphen"/>sive in superfluity and diet. O what good doth your Preaching, and Teaching do you? How doth it profit you at all, while you are so given up into vanity, as though you never had heard talk of God, talk of Religion, talk of Christians Prophets and Apostles? read their Declarations, and see what they declared against: the rod of God you must be fed withall, ye Lofty and full, ye haugh<g ref="char:EOLhyphen"/>ty and high-minded; O how do you eat and drink and then rise up to play? Is not this your practice ye full ones? and fat ones? do you call this recreation, ye idle ones like the old world? and <hi>Sodome</hi> and <hi>Gomorrha,</hi> fullnesse of bread and idlenesse who turned against <hi>Noah</hi> and <hi>Lot,</hi> the Preachers of righteousnesse, so it is at
+<pb n="3" facs="tcp:207493:2"/> this day, and so it was in the dayes of the Prophets, and in he days of the Apostles, these was spots in their feasts, that was begin<g ref="char:EOLhyphen"/>ning before the Apostles decease, to eat and to drink, and rise up to play, <hi>admiring mens persons because of advantage,</hi> of whose root and ofspring you are, that make your selves merry over the Just in the particular, and then in the Generall, and so lives wantonly upon the earth, and in pleasure, and nourish your hearts, you are of the flock that kills the Just, root and ofspring; for the people sate down to eat and drink, and rose up to play, with whom God was not well pleased, of whom God slew thousands at once, there is your example, and there is your stock, and there is your old Fathers, though you professe the Saints words, if you read the Scriptures you may see of whose stock you are of? and of whose Generation, and whose path you goe in, therefore if you love a long life, your souls happinesse and good, come out off vanity, come to seasonableness &amp; gravity, come to the Lord, come off all the barren mountains, all people come off the bar<g ref="char:EOLhyphen"/>ren mountains, that you may have refreshment, of the Lord God, come off vanity, that you may be led with the spirit, and not grieve it, and vex it, but that you may have unity in the spirit, with the Father of spirits, and unity one with another, your vanities grieve the spirit, whereby you are a burden to the Creation, it's a marvell how you can walk up and down the streets, and not be checked and reproved in your own particulars, for your vanity, and not be ashamed. Is the witnesse stifled in you? Hath the Custome of the sinne taken away the sense, are you past feeling? know you not that you must come to the dust you high lofty, wanton, giddy ones? O how are you daubed with silver lace, and your Jewels, and your spots of your faces, and your feathers, and your wearing of gold, and through the abundance of your vani<g ref="char:EOLhyphen"/>ty and of your superfluity, ambition and pride, loftinesse and haughtinesse, stop the ear from hearing the Lord his Decree and Sentence against you, and how he beholds you afar off, and stops up the eye with which you should see your selves, and stops up your ear from hearing the cry of the poore, the blind and the lame that lies up and down your streets, so that he that regards not the poore regards not his Maker, and turning his ear
+<pb n="4" facs="tcp:207493:3"/> from the poore, turns his ear from his Maker, so all come to so<g ref="char:EOLhyphen"/>bernesse and modesty, and shamefastnesse, and be ashamed of all your pride, and vanity, and delight in the Lord your Creator, more then the creature, the giver of all good, and take plea<g ref="char:EOLhyphen"/>sure in him, and take pleasure in him alone, and in his Judge<g ref="char:EOLhyphen"/>ments, if not, woe and wrath, and his plagues will come upon you. O what a pudder is hear? what a bowing and bending is here? bow to the Lord, give glory to him, give honour to him, fear him, dread the Lord, the Creator of all, of heaven and earth, of power, he will throw down all deceit, with his power. Honour you not the creature more than the Creator? Bow you not more to the Creature than the Creator? bow you not oftner with hat and knee to the Creature, than to the Creator? Give you not more honour and worship, and respect to the Creature, than to the Creator. O shamelesse men and wo<g ref="char:EOLhyphen"/>men! God will abase your pride, and bring your honour and glory to the dust, who beholds your vanity. O how have you your Lack<g ref="char:EOLhyphen"/>ies and Lads to carry your easing stools after you. O you Scorners, give over scorning, and O ye fools learn to be wise, all ye that are given to vanity, (for shall they that are given to vanity pros<g ref="char:EOLhyphen"/>per)? Hearken to the Spirit of God in you, that checks you for vanity, that you may come into the fear of God, whereby you may learn wisdome, and may not destroy the Creation, and that you may come to know God, whereby you may come to feel e<g ref="char:EOLhyphen"/>ternal life, that which checks you for your sinnes, and your vani<g ref="char:EOLhyphen"/>ty, and for your going after it, whereby you may come to under<g ref="char:EOLhyphen"/>standing, and know what is vanity, and vexeth the Spirit, and what doth not vex the Spirit, that is pleasing to God, that you may learn with that which gives you understanding: while you have time prize it, lest your time be past: this is the day of your visitation, love the Lord God above all his Creatures, and delight not in vanity, and to the Lord God in your generation, you may be a blessing, for all the destroyers of the Creation are accursed; for Woe and Misery, and Plagues is to come upon all the World.</p>
+            <p>Bow you not more and oftener the hat and the knee to one a<g ref="char:EOLhyphen"/>nother, than you do unto the Lord? People cannot tell how to
+<pb n="5" facs="tcp:207493:3"/> please one another in their bowing the Hat, in Cur<g ref="char:EOLhyphen"/>ching one to another, but they will be ready to think, that I bowed my Hat oftner to him then he did to me, and I curchied more to her then she did to me; And thus they are offended one at another; and such a one hath more Ribbons, and Gold and Silver on him than I have, and spots on their faces, and he powders his hair and curls it; And so when any is in another fashion contrary to them, then they envy one another, which is among such which have lost gravity. And are ye not here as the transgres<g ref="char:EOLhyphen"/>sing Children of <hi>Israel mincing tinckling round attire, amongst whom must come the stink?</hi> Isaiah 3.</p>
+            <p>And are ye not out of the Apostles doctrine who saith, <hi>not wearing of Gold nor broidered attire, nor plaiting of hair; but the adorning which is the hidden man of the heart.</hi>
+            </p>
+            <p>OH all ye Rulers of the earth, from the foundation of the world to this day, who hath been in the transgression of the Law of God, of the life of God, out of the fear of God, such in all ages hath turned the Sword against the just, that hath transgressed the just principle of God in themselves, and grafted themselves into the wicked root, all such from the foundation of the world to this day; have turned the Sword backward like blinde men; so hits their friends that comes with love to their souls; and strikes at them instead of their enemies; ye per<g ref="char:EOLhyphen"/>secute the just, ye kill the Saints, the Prophets, and the Son, and persecute them that be in the life of the Pro<g ref="char:EOLhyphen"/>phets and Apostles; these hath alwaies strengthened the hands of the evill Doers; But them that hath repro<g ref="char:EOLhyphen"/>ved in your Gates; in your Streets, hath been your pray; you have banished, you have whipped, you have priso<g ref="char:EOLhyphen"/>ned,
+<pb n="6" facs="tcp:207493:4"/> ye have persecuted, you have burned my flesh saith the Lord, ye have branded, ye have marked, ye have fire and Faggots, and Houses of Correction, and Inqui<g ref="char:EOLhyphen"/>sitions, and sending up and down Warrants, <hi>Mittimusses,</hi> banishing the servants of the Lord, persecuting them, be<g ref="char:EOLhyphen"/>cause they cannot bow the Hat, give you the earthly honour, not honouring the Courts as was in the days of the Martyrs for the testifying of the truth, and say <hi>thou</hi> to one, shewing that you are of the earthly old <hi>Adam,</hi> drove from God into the earth, not of the <hi>second Adam the Lord from Heaven,</hi> Christ Iesus who receives not honour of men. None honours the Father and the Son, but who hath received honour from God; and that which is of God, now men in haste and passion, in rage and fury and bit<g ref="char:EOLhyphen"/>terness, and prejudice these are unseasoned men for to be Iustices, unseasoned men to have honour, for hu<g ref="char:EOLhyphen"/>mility goes before the honour, proud and high minded<g ref="char:EOLhyphen"/>ness and liftings up; that looks for respect of persons, more then for truth, Iustice and equity, for if men keep down low and humble, all doing iustly, they are honoured in the hearts of all people with the iust principle of God, in all people that honours <hi>the higher power,</hi> that honours iu<g ref="char:EOLhyphen"/>stice, and exalts the humility; God doth; which goes be<g ref="char:EOLhyphen"/>fore the honour, who brings down the mighty from his seat, and abaseth the proud, and beholds him afar off, and brings down the Lofty, and where bitternesse and pre<g ref="char:EOLhyphen"/>judice and burnings is in the breasts of people, they will side for parties, and be for their own ends, and what work hath men with these innocent people, which ye in scorn call Quakers? prisoning, haling out of steeple houses, sen<g ref="char:EOLhyphen"/>ding them as vagabonds from place to place, those that be able people outwardly, whipping of them, and because they cannot bow their hat to them. What work is your Iudges making with them, and fining of them, prison<g ref="char:EOLhyphen"/>ing them because they cannot swear, and prisoning them, and fining them because they cannot pay the Priest tithes, preparing war against them, because they cannot put into
+<pb n="7" facs="tcp:207493:4"/> their mouths, such as <hi>Micah</hi> cryed against, if people was not hardened, they would look into these things, and consider these things, and see all along from the foundation of the world, how they out of the fear of God persecutes, though they have got the form of words, but out of the life of them: these persecutes men because they cannot put into the Priests mouth, and such as held up such Priests as are made by men, and held up in mens wills, and not by the will of God, and persecute them because they cannot break Christs command; but keeps it which saith, <hi>swear not at all;</hi> and prisons and persecutes such as cannot receive ho<g ref="char:EOLhyphen"/>nour from men; nor give honour to men which is from below; can the children of God give honour to that which God will abase and throw down? all that seeks or would be honoured in the hearts of all people, must answer the principall of God in all people, with iustice, with equity, with truth, and they must have patience, and humbleness, and mercy, for ye have whipped, ye have burned, ye have persecuted; and these things lye upon you: you that have acted these things are out of the fear of God; therefore now you that fear God whose hands are clear from blood and from persecuting the innocent; and who hath done iust to the wicked; the Lord God will be your reward; you shall have a Crown that is immortall; that hath kept your selves from persecuting the innocent, and put a difference between the pretious and the vile; and to them that do well have been a praise; and them that have reproved sin in your Gates, hath not been a prey, but ye have protected them you have nouri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hed them; and the evill doer hath not strengthned, happy are ye who are ho<g ref="char:EOLhyphen"/>noured in the hearts of all people, ye are in their hearts who doe iustly, loves truth, are mercifull, humble, such God exalts and honours them in the hearts of all his peo<g ref="char:EOLhyphen"/>ple with that of himself, such knows the proud and lofty cannot honour them; they will not receive the honour from them; which is but a complement, and from below; and is earthly, for that which honours a Magistrate, that
+<pb n="8" facs="tcp:207493:5"/> doth iustice and equity, and honours the power, it is from the principle of God in him, that keeps him humble and low, which brings him from under the occasion of the Law, which <hi>is a praise to them that doe well; and a terrour to the evill Doer.</hi>
+            </p>
+            <closer>
+               <signed>A lover of all your souls and your eternall good, and a friend to the Creation, and the truth, and them that be in the life of God.<hi>G. F.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:207493:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
